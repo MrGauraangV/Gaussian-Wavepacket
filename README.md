@@ -1,1 +1,5 @@
-# Gaussian-Wavepacket
+# Gaussian-Wavepacket-GUI
+
+Generally solutions to the time independent Schrodinger equation, take bound state problems like rectangular barrier for example, involve planar waves with deﬁnite wavelength and indeﬁnite locality. But practically speaking, it cannot be the case considering particles are localised in space, hence its associated matter wave should be localised. What Gaussian wavepacket does is introduce this locality with the expense of there being uncertainty in the particle's momentum; with the superposition of inﬁnite planar waves having diﬀerent wave numbers and frequencies, waves can constructively and destructively interfere in such a way that they get localised in space.
+
+The aim of this GUI is to aid in analysis of the Gaussian Wave-packet, so that it can be incorporated with main problems in quantum mechanics such that the solution resembles more of reality. The user may grasp the eﬀects of certain Gaussian parameters on the wave-packet itself considering the equation is not intuitive.
